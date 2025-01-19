@@ -116,7 +116,7 @@ author:
   name             : "김정무"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "영남대학교 교수"
-  location         : "Korea"
+  location         : "경산, 대한민국"
   email            :
   links:
     - label: "Email"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/lovetakestime"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
